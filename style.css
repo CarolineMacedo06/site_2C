@@ -17,16 +17,16 @@
     }
     
     .cabeçalho_titulo{
-    font-size: 40px;
+    font-size: 35px;
     }
     
     .cabeçalho_lista_item{
     margin: 25px 0px 25px 0px;
-    font-size: 16px;
+    font-size: 17px;
     }
     
     .apresentaçao_trabalho{
-    background-image: linear-gradient(rgb(255, 153, 35), #ff6b51);
+    background-image: linear-gradient(rgb(255, 88, 22), #ff7850);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -34,7 +34,7 @@
     }
     
     .titulo_apresentaçao_trabalho{
-    font-size: 30px;
+    font-size: 25px;
     }
     
     .imagem_arvore{
