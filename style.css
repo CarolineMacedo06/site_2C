@@ -2,6 +2,7 @@
     margin: 2%;
     padding: 2%;
     }
+   
     .cabeçalho{
     background-color: rgb(226, 157, 205);
     color: rgb(0, 0, 0);
@@ -9,23 +10,28 @@
     align-items: center;
     padding: 50px 0;
     }
+   
     .cabeçalho_imagem{
     width: 20%;
     }
     .cabeçalho_titulo{
     font-size: 50px;
     }
+    
     .cabeçalho_lista_item{
     margin: 5px 10px 30px 5px;
     font-size: 20px;
     }
+  
     .apresentaçao_trabalho{
     background-image: linear-gradient(rgb(226, 157, 205), #f361d3);
     padding: 0px;
     }
+  
     .titulo_apresentaçao_trabalho{
     font-size: 30px;
     }
+  
     .img1{
     width: 40%;
     }
