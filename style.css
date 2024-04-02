@@ -4,8 +4,8 @@
     }
     
     .cabeçalho{
-    background-color: rgb(69, 117, 250);
-    color: rgb(0, 0, 0);
+    background-color: rgb(182, 182, 182);
+    color: rgb(247, 81, 81);
     display:flex;
     align-items: center;
     padding: 50px 0;
@@ -17,7 +17,7 @@
     
     .cabeçalho_titulo{
     font-size: 50px;
-    background-color: linear-gradient(rgb(69, 117, 250), #6783ff);
+    background-color: linear-gradient(rgb(182, 182, 182), hsl(182, 182, 182));
     }
     
     .cabeçalho_lista_item{
@@ -26,12 +26,12 @@
     }
     
     .apresentaçao_trabalho{
-    background-image: linear-gradient(rgb(255, 119, 237), #ffa1db);
+    background-image: linear-gradient(rgb(182, 182, 182), hsl(182, 182, 182));
     padding: 0px;
     }
     
     .titulo_apresentaçao_trabalho{
-    background-image: linear-gradient(rgb(69, 117, 250), #6783ff);
+    background-image: linear-gradient(rgb(182, 182, 182), hsl(182, 182, 182));
     padding: 0px;
     font-size: 30px;
     }
@@ -40,7 +40,7 @@
     width: 20%;
     }
     .Artigos.html{
-    background-color: rgb(69, 117, 250);
+    background-color: rgb(182, 182, 182);
     color: rgb(0, 0, 0);
     display:flex;
     align-items: center;
